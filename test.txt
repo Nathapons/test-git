@@ -1,2 +1,3 @@
 add some word line1
 modify new line
+line3
