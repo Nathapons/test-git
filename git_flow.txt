@@ -5,4 +5,6 @@ Git flow step
 4. git pull
 5. git push
 6. git restore test.txt
+File apply test.txt
+
 
