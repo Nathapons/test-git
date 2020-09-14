@@ -2,6 +2,7 @@ Git flow step
 1. Create file name: git_flow.txt
 2. git add .
 3. git commit -m "Git Lab1"
-4. git push
-5. git restore
+4. git pull
+5. git push
+6. git restore test.txt
 
