@@ -1,0 +1,11 @@
+1. Create git_branch.txt
+2. แก้ไข file git_branch.txt
+3. Upload
+	1. git add test.txt
+	2. git commit -m "Lab2: Git flow"
+	3. git pull
+	4. git push -u origin master develop
+4. git branch -d feature-1 และ git branch -d develop
+5. git checkout -b git_branch
+6. touch git_branch.txt
+7. vi git_branch.txt
