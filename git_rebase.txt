@@ -1,0 +1,8 @@
+Lab4: Git rebase has conflict
+1. Create branch
+2. Adjust git_rebase.txt
+3. Push to repo
+4. Switch to git_branch
+5. adjust file (Not same master)
+6. Git Push
+7. Rebase master
