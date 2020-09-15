@@ -1,2 +1,7 @@
 add some text to test2.txt
 add some text to text2.txt
+line8
+
+codecamp
+
+line8
