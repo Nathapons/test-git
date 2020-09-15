@@ -1,0 +1,2 @@
+Lab Merge: Git merge has conflict. New line
+Add git merge
